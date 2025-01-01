@@ -8,7 +8,7 @@
 ---
 
 ### 📦 Projects
-- [차세대 만화카페 솔루션 "Cartoon Time"](https://github.com/kaxadlec/CartoonTime-Kiosk) / FE / (2024.09. ~ 2024.10.)
+- [차세대 만화카페 솔루션 "Cartoon Time"](https://github.com/kaxadlec/CartoonTime-Kiosk) / FE / (2024.09. ~ 2024.10)
 - [화상 연애심리 게임 "Money and Love"](https://github.com/kaxadlec/Money-and-Love) / FE / (2024.07 ~ 2024.08)
 - [금융 상품 비교 애플리케이션 "SIMPLE 금융 플랫폼"](https://github.com/kaxadlec/SIMPLE-Financial-Services) / BE / (2024.05)
 - [스마트팩토리 공정 모니터링 플랫폼](https://github.com/kaxadlec/SmartFactory-Project) / IoT, AI, BE / (2023.07 ~ 2023.08)
