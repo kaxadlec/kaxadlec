@@ -8,8 +8,8 @@
 ---
 
 ### 📦 Projects
-- [스마트워치 기반 커플 서비스 "Heart Dog"](https://github.com/kaxadlec/Heart-Dog) / Android, UIUX / (2024.10. ~ 2024.11)
-- [차세대 만화카페 솔루션 "Cartoon Time"](https://github.com/kaxadlec/CartoonTime-Kiosk) / FE, UIUX / (2024.09. ~ 2024.10)
+- [스마트워치 기반 커플 서비스 "Heart Dog"](https://github.com/kaxadlec/Heart-Dog) / Android, UIUX / (2024.10 ~ 2024.11)
+- [차세대 만화카페 솔루션 "Cartoon Time"](https://github.com/kaxadlec/CartoonTime-Kiosk) / FE, UIUX / (2024.09 ~ 2024.10)
 - [화상 연애심리 게임 "Money and Love"](https://github.com/kaxadlec/Money-and-Love) / FE, UIUX / (2024.07 ~ 2024.08)
 - [금융 상품 비교 애플리케이션 "SIMPLE 금융 플랫폼"](https://github.com/kaxadlec/SIMPLE-Financial-Services) / BE / (2024.05)
 - [스마트팩토리 공정 모니터링 플랫폼](https://github.com/kaxadlec/SmartFactory-Project) / IoT, AI, BE / (2023.07 ~ 2023.08)
@@ -31,7 +31,7 @@
 
 ### 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaxadlec&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaxadlec&layout=compact&theme=dracula&langs_count=8)
 
 #### 🌐 Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
