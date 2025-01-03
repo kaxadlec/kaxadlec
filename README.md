@@ -31,7 +31,7 @@
 
 ### 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaxadlec&layout=compact&theme=dracula&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaxadlec&layout=compact&theme=dracula&langs_count=8&hide=kotlin)
 
 #### 🌐 Frontend
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
@@ -47,7 +47,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ohj220)](https://solved.ac/ohj220)
 ---
 
-![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaxadlec&show_icons=true&theme=darka&count_private=true)
+![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaxadlec&show_icons=true&theme=dracula&count_private=true)
 
 
 
